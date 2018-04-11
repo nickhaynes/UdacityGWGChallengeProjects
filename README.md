@@ -36,4 +36,4 @@ _[Full course overview, including every sub-lesson in the course](https://github
 |  21   | Project: Pixel Art Maker      | In Progress |  
 |  22   | Challenge Course Wrap Up      | Not started |   
 
-### _Completed curriculum on February 22, 2018 (43 days)_
+#### _Completed curriculum on February 22, 2018 (43 days)_
