@@ -33,7 +33,7 @@ _[Full course overview, including every sub-lesson in the course](https://github
 |  18   | The Basics: the DOM, $, and Selectors | Completed |    
 |  19   | The Tricks: DOM Manipulation  | Completed   | 
 |  20   | Event Listeners with jQuery   | Completed   | 
-|  21   | Project: Pixel Art Maker      | In Progress |  
-|  22   | Challenge Course Wrap Up      | Not started |   
+|  21   | Project: Pixel Art Maker      | Completed   |  
+|  22   | Challenge Course Wrap Up      | Completed |   
 
 #### _Completed curriculum on February 22, 2018 (43 days)_
