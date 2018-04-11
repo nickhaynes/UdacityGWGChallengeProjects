@@ -2,13 +2,13 @@
 
 Projects and quizzes undertaken as part of the challenge course in the Udacity/Grow With Google Front-End Web Development Scholarship Program
 
-##Description
+## Description
 
 In January 2018, I was among 15,000 individuals selected for Round 1 of the _Grow with Google_ Front-End Web Developer Scholarship Track offered by Udacity.  In Round 1, scholarship participants learn the basics of web development over 3 months, including HTML, CSS, JavaScript, and jQuery.
 
 On April 17th, the top 1,500 individuals who successfully completed the challenge course by April 11th, will be awarded a full scholarship for Udacity's Front-End Web Development nanodegree, a six-month course designed to fully equip individuals for work in front-end develpment.
 
-##Course Overview
+## Course Overview
 _[Full course overview, including every sub-lesson in the course](https://github.com/nickhaynes/Grow-with-Google-Udacity/blob/master/docs/FEWD-Challenge-Course-Lessons.pdf)_
 
 | Lesson     | Subject                       | Status      | 
@@ -36,4 +36,4 @@ _[Full course overview, including every sub-lesson in the course](https://github
 |  21   | Project: Pixel Art Maker      | In Progress |  
 |  22   | Challenge Course Wrap Up      | Not started |   
 
-_###Completed curriculum on February 22, 2018 (43 days)_
+### _Completed curriculum on February 22, 2018 (43 days)_
