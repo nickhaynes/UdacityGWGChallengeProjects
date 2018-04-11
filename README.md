@@ -4,7 +4,7 @@ Projects and quizzes undertaken as part of the challenge course in the Udacity/G
 
 ## Description
 
-In January 2018, I was among 15,000 individuals selected for Round 1 of the _Grow with Google_ Front-End Web Developer Scholarship Track offered by Udacity.  In Round 1, scholarship participants learn the basics of web development over 3 months, including HTML, CSS, JavaScript, and jQuery.
+In January 2018, I was among 15,000 individuals selected for Round 1 of the _[Grow with Google](http://grow.google)_ Front-End Web Developer Scholarship Track offered by [Udacity](http://www.udacity.com).  In Round 1, scholarship participants learn the basics of web development over 3 months, including HTML, CSS, JavaScript, and jQuery.
 
 On April 17th, the top 1,500 individuals who successfully completed the challenge course by April 11th, will be awarded a full scholarship for Udacity's Front-End Web Development nanodegree, a six-month course designed to fully equip individuals for work in front-end develpment.
 
